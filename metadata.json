@@ -1,0 +1,6 @@
+{
+  "name": "FITZONE FITNESS - Modern Gym & Management CMS",
+  "description": "Premier fitness club and gym management platform with dynamic programs, certified trainers, flexible memberships, class bookings, and comprehensive owner CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
